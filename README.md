@@ -1,1 +1,4 @@
-# Testing-web-form
+# Testing-web-form 
+Задание:
++ Протестировать веб форму по ссылке http://itcareer.pythonanywhere.com 
++ Написать чек лист (минимум 70 кейсов, улучшения, баг репорты)
